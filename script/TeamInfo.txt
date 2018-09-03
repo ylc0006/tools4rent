@@ -1,0 +1,7 @@
+Team03:
+Anthony Suryabudi    	email: asuryabudi@gatech.edu
+Yan-Lin Chen    	email: ylc0006@gatech.edu
+Zhikang Yu		email: zyu319@gatech.edu
+
+
+SQL codes are saved in the SQL folder. We have 2 files in there: schema.sql and dummy.sql.
